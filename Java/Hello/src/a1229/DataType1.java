@@ -1,20 +1,27 @@
 package a1229;
 
+import java.net.Socket;
+
 public class DataType1 {
    public static void main(String[] args) {
         // 정수형
         int age = 25;
         age =26;
         long population = 7800000000L; // 78억
+
         // 실수형
         double height = 175.5;
         float weight = 70.2F;
+
         // 문자형
         char grade = 'A';
+
         // 논리형
         boolean isStudent = true;
+
         // 참조 자료형(String)
         String name = "홍길동";
+
         // 상수
         final double PI = 3.14159;
         final int MAX_SCORE = 100;

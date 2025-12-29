@@ -1,5 +1,7 @@
 package a1229;
 
+import java.net.Socket;
+
 public class Int1 {
     public static void main(String[] args) {
         int var1 = 10;

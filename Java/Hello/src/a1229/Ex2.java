@@ -1,10 +1,8 @@
 package a1229;
 
-import java.net.Socket;
-
-public class Ex01 {
-   public static void main(String[] args) {
-       String name = "홍길동";
+public class Ex2 {
+    public static void main(String[] args) {
+        String name = "홍길동";
         int age = 20;
         double height = 170.5;
         double weight = 65.3;
@@ -13,7 +11,5 @@ public class Ex01 {
         System.out.println("나이: " + age);
         System.out.println("키: " + height + " cm");
         System.out.println("몸무게: " + weight + " kg");
-              
-      
-   } 
+    }
 }
