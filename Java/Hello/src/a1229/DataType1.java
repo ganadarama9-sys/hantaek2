@@ -1,7 +1,5 @@
 package a1229;
 
-import java.net.Socket;
-
 public class DataType1 {
    public static void main(String[] args) {
         // 정수형
